@@ -1,2 +1,3 @@
-spring
- profiles: dev
+# spring
+spring:
+  profiles: dev
