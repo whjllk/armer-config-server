@@ -1,0 +1,4 @@
+spring:
+  profiles: dev
+armer-user-config:
+  location: online/armer-user-dev

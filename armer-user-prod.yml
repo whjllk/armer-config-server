@@ -1,0 +1,4 @@
+spring:
+  profiles: prod
+armer-user-config:
+  location: online/armer-user-prod
